@@ -1,4 +1,4 @@
-### Introduction to the AI Fundamentals program
+## Introduction to the AI Fundamentals program
 
 ## MyCertificate
 [Microsoft/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/D2UUDXL6VSL6)
