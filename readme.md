@@ -7,5 +7,9 @@ Artificial Intelligence (AI) empowers amazing new solutions and experiences, and
 
 **Learning Objectives:**
 - Identify guiding principles for responsible AI
+- (Fairness, Security and safety , privacy and security , Inclusiveness , 
+-   transperancy and accountability_
 - Identify features of common AI workloads
+- (Machine learning, Anomaly detection, computer vision, natural language 
+-  processing and conversational AI(Robots engaging))
 
