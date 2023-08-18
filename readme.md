@@ -11,3 +11,4 @@ Artificial Intelligence (AI) empowers amazing new solutions and experiences, and
 - Identify features of common **AI workloads**
 - (Machine learning, Anomaly detection, computer vision, natural language processing and conversational AI(Robots engaging))
 
+## 2-Microsoft Azure Machine Learning
