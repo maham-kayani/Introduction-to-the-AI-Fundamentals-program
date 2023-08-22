@@ -26,3 +26,13 @@ Artificial Intelligence (AI) empowers amazing new solutions and experiences, and
 
 - How to identify Azure tools and services for computer vision tasks 
 - How to identify common types of computer vision solutions
+## 4-Natural Language Processing in Microsoft Azure
+[Microsoft/coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/7BABCHTYPUQ8)
+
+**Learning Objectives:**
+- How to describe features of Natural Language Processing (NLP) workloads on Azure 
+- How to identify features of common NLP Workload Scenarios
+- How to identify Azure tools and services for NLP workloads
+  
+## 4-Specialization
+[Microsoft/coursera Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/J8D32EZC4AAB)
